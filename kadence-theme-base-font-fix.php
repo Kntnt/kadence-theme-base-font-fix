@@ -3,7 +3,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Kadence Theme Base Font Fix
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/Kntnt/kadence-theme-base-font-fix
  * Description:       Adds italic variant to Kadence Theme's the base font if it is loaded from Google Fonts.
  * Version:           1.0.0
  * Author:            Thomas Barregren
