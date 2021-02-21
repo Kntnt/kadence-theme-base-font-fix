@@ -32,4 +32,4 @@ this plugin can be used.
 
 [Download the latest version](https://github.com/Kntnt/kadence-theme-base-font-fix/releases/latest) and [install it as a WordPress plugin](https://wordpress.org/support/article/managing-plugins/#manual-upload-via-wordpress-admin).
 
-You can also [download the plugin file] (https://raw.githubusercontent.com/Kntnt/kadence-theme-base-font-fix/main/kntnt-style-editor.php) and place it in [mu-plugins](https://wordpress.org/support/article/must-use-plugins/).
+Alternatively, [download the plugin file](https://raw.githubusercontent.com/Kntnt/kadence-theme-base-font-fix/main/kntnt-style-editor.php) and place it in [mu-plugins](https://wordpress.org/support/article/must-use-plugins/).
